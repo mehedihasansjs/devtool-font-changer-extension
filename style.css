@@ -1,0 +1,31 @@
+:host-context(.platform-linux) .monospace,
+:host-context(.platform-mac) .monospace,
+
+:host-context(.platform-linux) .source-code,
+:host-context(.platform-mac) .source-code,
+
+.platform-linux .monospace, 
+.platform-mac .monospace, 
+
+.platform-linux .source-code,
+.platform-mac .source-code {
+    font-size: 12px !important;
+    font-family: 'Mononoki Nerd Font', Consolas, Menlo, monospace !important;
+}
+
+.monospace,
+.source-code {
+    font-size: 12px !important;
+    font-family: 'Mononoki Nerd Font', Consolas, Menlo, monospace !important;
+}
+
+::shadow .monospace,
+::shadow .source-code {
+    font-size: 12px !important;
+    font-family: 'Mononoki Nerd Font', Consolas, Menlo, monospace !important;
+}
+
+.blob-code-inner {
+    font-size: 12px !important;
+    font-family: 'Mononoki Nerd Font', Consolas, Menlo, monospace !important;
+}
