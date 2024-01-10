@@ -6,9 +6,9 @@
 
 After selecting, you will see this extension in your extension list.
 
-![Chrome Devtools Font Changer](image.png)
+![Chrome Devtools Font Changer](images/image.png)
 
-- Reopen devtool to see effect. All monospaced font should be changed to **Mononoki Nerd Font** if this font installed to your machine. Otherwise, you can change the font name in [style.css](style.css)
+- Reopen devtool to see effect. All monospaced font should be changed to **Mononoki Nerd Font** if this font installed to your machine. Otherwise, you can change the font name in [devtools.css](devtools/devtools.css)
 
 ### Thanks to
 - [ArmaniCh/github-code-font-changer](https://github.com/AmraniCh/github-code-font-changer)

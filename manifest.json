@@ -1,20 +1,17 @@
 {
     "name": "Chrome Devtools Font Changer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Mehedi Hasan",
         "email": "meehdi.hasansjs@gmail.com"
     },
     "description": "Get rid of the ugly default font in Chrome Devtools. Change it to your favorite font. Default is Mononoki Nerd Font.",
-    "devtools_page": "index.html",
+    "devtools_page": "devtools/devtools.html",
     "manifest_version": 3,
     "icons": {
         "16": "images/icon.png",
         "32": "images/icon.png",
         "48": "images/icon.png",
         "128": "images/icon.png"
-    },
-    "action": {
-        "default_popup": "popup/popup.html"
     }
 }
